@@ -1,54 +1,56 @@
-# 🗂 实用网站收藏
+# 🗂 Awesome Links · 硬核收藏
 
-> 我整理的高质量 / 常用网站，分类收藏，方便随时查阅。持续更新中 ✨
+> 精选那些「别人不知道」的高质量网站。按兴趣分类，持续更新。✨
 
 ---
 
-## 💻 开发与代码
+## 🧠 芯片 / 数码硬核数据库
 
-- [GitHub](https://github.com) — 全球最大代码托管与开源社区
-- [Gitee 码云](https://gitee.com) — 国内代码托管平台
-- [Stack Overflow](https://stackoverflow.com) — 程序员问答社区
-- [LeetCode](https://leetcode.cn) — 算法刷题平台
-- [CodePen](https://codepen.io) — 前端在线演练
-- [MDN Web Docs](https://developer.mozilla.org/zh-CN/) — 前端权威文档
+- [Geekbench 浏览器](https://browser.geekbench.com) — 全球芯片跑分官方库，查单核/多核分数最准
+- [Nanoreview](https://nanoreview.net) — 芯片/手机规格性能详细对比库，比营销号靠谱
+- [Notebookcheck](https://www.notebookcheck.net) — 硬件深度评测与跑分数据库
+- [CPU-Monkey](https://www.cpu-monkey.com) — CPU / GPU 全面对比
+- [TechPowerUp GPU 数据库](https://www.techpowerup.com/gpu-specs) — 显卡规格大全
 
-## 🤖 AI 工具
+## 🤖 鸿蒙 / 华为生态
 
-- [ChatGPT](https://chatgpt.com) — OpenAI 对话助手
-- [Hugging Face](https://huggingface.co) — AI 模型与数据集社区
-- [DeepSeek](https://chat.deepseek.com) — 国内大模型助手
-- [通义千问](https://tongyi.aliyun.com) — 阿里云 AI
+- [HarmonyOS 开发者社区](https://developer.huawei.com) — 鸿蒙官方开发文档与论坛
+- [sydxky.cn](https://www.sydxky.cn) — 鸿蒙开源资源站（HoKit、HAP 资源）
+- [OpenHarmony 开源](https://gitee.com/openharmony) — 鸿蒙开源代码仓库
+- [华为开发者论坛](https://developer.huawei.com/consumer/cn/forum) — 华为生态交流
 
-## 📰 科技数码资讯
+## 💻 极客 / 深度社区
 
-- [IT之家](https://www.ithome.com) — 数码科技快讯
-- [中关村在线](https://www.zol.com.cn) — 数码产品报价评测
-- [太平洋电脑网](https://www.pconline.com.cn) — 硬件评测
-- [极客湾 Geekerwan](https://space.bilibili.com/25876945) — 芯片性能评测
+- [Hacker News](https://news.ycombinator.com) — 全球极客第一手资讯
+- [少数派 sspai](https://sspai.com) — 效率 / 数码深度长文
+- [V2EX](https://www.v2ex.com) — 国内技术讨论社区
+- [阮一峰的网络日志](https://www.ruanyifeng.com/blog) — 每周技术周刊
+- [酷安 Coolapk](https://www.coolapk.com) — 安卓 / 数码玩家聚集地
+
+## 🛠 在线宝藏工具
+
+- [Remove.bg](https://www.remove.bg) — 一键抠图
+- [TinyPNG](https://tinypng.com) — 图片压缩神器
+- [Regex101](https://regex101.com) — 正则在线测试
+- [JSON.cn](https://www.json.cn) — 在线 JSON 格式化 / 校验
+- [10 Minute Mail](https://10minutemail.com) — 临时邮箱，收验证码不泄露主邮箱
+- [iLovePDF](https://www.ilovepdf.com) — PDF 全能工具
+- [ProcessOn](https://www.processon.com) — 在线思维导图 / 流程图
+- [uTools](https://www.u-tools.cn) — 桌面效率工具箱
 
 ## 📚 学习
 
-- [菜鸟教程](https://www.runoob.com) — 编程入门教程
-- [W3School](https://www.w3school.com.cn) — Web 开发教程
-- [Bilibili](https://www.bilibili.com) — 视频学习资源
+- [freeCodeCamp](https://www.freecodecamp.org) — 免费编程课程
+- [菜鸟教程](https://www.runoob.com) — 编程入门
+- [MDN Web Docs](https://developer.mozilla.org/zh-CN) — 前端权威文档
 - [中国大学MOOC](https://www.icourse163.org) — 高校公开课
 
-## 🛠 效率工具
+## 📰 资讯 / 娱乐
 
-- [WebTech](https://web-tools.co) — 在线开发小工具
-- [ProcessOn](https://www.processon.com) — 在线思维导图/流程图
-- [Canva](https://www.canva.cn) — 在线设计
-- [uTools](https://www.u-tools.cn) — 效率工具箱
-- [华为云](https://www.huaweicloud.com) — 华为云计算服务
-- [腾讯云](https://cloud.tencent.com) — 腾讯云计算服务
-
-## 🎬 视频与娱乐
-
-- [Bilibili](https://www.bilibili.com) — 弹幕视频
-- [YouTube](https://www.youtube.com) — 国际视频平台
-- [AcFun](https://www.acfun.cn) — 弹幕视频社区
+- [IT之家](https://www.ithome.com) — 数码快讯
+- [中关村在线](https://www.zol.com.cn) — 数码报价评测
+- [Bilibili](https://www.bilibili.com) — 视频 / 学习
 
 ---
 
-> 💡 想加某个方向的网站？欢迎提 Issue 或 PR，我会持续补充 ~
+> 💡 想要更多某类网站？欢迎提 Issue 或 PR，我会持续补充 ~
