@@ -37,6 +37,7 @@
 - [iLovePDF](https://www.ilovepdf.com) — PDF 全能工具
 - [ProcessOn](https://www.processon.com) — 在线思维导图 / 流程图
 - [uTools](https://www.u-tools.cn) — 桌面效率工具箱
+- [StagePeek](https://stagepeek.live) — 免费免登录的 2D/3D 演唱会选座视野模拟器，输入门票区/排/座号即可预览舞台视角与手机焦段构图（覆盖 201+ 全球体育馆与演艺场馆）
 
 ## 📚 学习
 
